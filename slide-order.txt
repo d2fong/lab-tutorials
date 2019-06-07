@@ -1,0 +1,25 @@
+Slide order:
+- Dylan
+  - intro
+  - daniel/yanning projects
+  - get a rough estimate of who knows how to code
+- Goal
+  - teach enough for you to be comfortable creating/modifying scripts, automation, using more technical tools
+  - not going to happen over night but I am commited to teaching if you are commited to learning
+  - general overview
+  - ideal world
+    - I need to spend 30mins a week with everyone to provide support and learning
+  -
+
+- tools
+  - git
+  - code editors
+  - github
+  - terminal
+
+- scripting
+  - basic file, I/O automation
+  - comparison between terminal, user interface, python
+  - build pipeline example
+    - nemanode
+  - advanced scripting
